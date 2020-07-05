@@ -1,4 +1,4 @@
-# My favorite books
+
 * Novels
   * Harry Potter
   * The Alchemist
